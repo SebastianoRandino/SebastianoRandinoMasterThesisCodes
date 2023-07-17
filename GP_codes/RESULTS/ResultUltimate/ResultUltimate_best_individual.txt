@@ -1,0 +1,1 @@
+protectedLog(mul(add(sub(w_i, 1.26711), add(sub(w_i, 1.26711), protectedExp(int_e_i))), add(int_e_i, mul(add(sub(w_i, 1.26711), protectedExp(int_e_i)), w_i))))
